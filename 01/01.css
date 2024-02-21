@@ -1,0 +1,21 @@
+* {
+    border: 1px solid red;
+   
+}
+
+body {
+
+}
+
+.buttonGroup {
+    display: flex;
+    justify-content: right;
+}
+
+button {
+    
+}
+
+.explain {
+    
+}
